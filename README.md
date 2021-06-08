@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BooHooRor
+- 👋 Hi, I’m @BooHooRor - Krzysztof Buchowiecki 
 - 👀 I’m interested in sport, music, woodworking and web-dev
 - 🌱 I’m currently learning Java Script & Ruby on Rails 6 
 - 📫 How to reach me: buchowiecki.krzysztof@gmail.com
